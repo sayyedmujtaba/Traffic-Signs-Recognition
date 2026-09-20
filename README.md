@@ -2,7 +2,7 @@
 
 **A controlled comparison of 4 imbalance-mitigation strategies on a 43-class CNN classifier**
 
-Note: Click here if you are interested in [detailed reprts](https://github.com/sayyedmujtaba/Traffic-Signs-Recognition/settings)
+Note: Click here if you are interested in [detailed reports](https://github.com/sayyedmujtaba/Traffic-Signs-Recognition/settings)
 
 ## The Problem
 
